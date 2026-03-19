@@ -4,7 +4,7 @@ A unified AI-powered image editing desktop app that combines four creative modes
 
 ## Download
 
-Get the latest Windows installer from the [Releases](https://github.com/MushroomFleet/banana-tool-dev/releases) page. Download the `.msi` file, run it, and you're ready to go — no dependencies required.
+Get the latest Windows installer from the [Releases](https://github.com/MushroomFleet/banana-tool/releases) page. Download the `.msi` file, run it, and you're ready to go — no dependencies required.
 
 ## Features
 
@@ -91,7 +91,7 @@ If you use this codebase in your research or project, please cite:
   title = {Banana-Tool: Unified AI Image Editing with Inpaint, Replace, Edit and Outpaint},
   author = {Drift Johnson},
   year = {2025},
-  url = {https://github.com/MushroomFleet/banana-tool-dev},
+  url = {https://github.com/MushroomFleet/banana-tool},
   version = {1.0.0}
 }
 ```
