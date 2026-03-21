@@ -1,6 +1,8 @@
 # Banana-Tool
 
-A unified AI-powered image editing desktop app that combines four creative modes — **Inpaint**, **Replace**, **EDIT**, and **Outpaint** — into a single gallery-driven interface. Powered by Google Gemini image generation.
+A unified AI-powered image editing desktop app that combines four creative modes — **Inpaint**, **Replace**, **EDIT**, and **Outpaint** — into a single gallery-driven interface. Powered by Google Gemini image generation. 
+
+**UNPAINT** now added, newly created images can use this retrospectively from the gallery, or enable it with new EDIT/REPLACE/INPAINT tasks. This is based on the "DJZ Brushed Layer" post-edit interface and preserves unchanged pixels solving degradation of the image over many edits.
 
 ## Download
 
